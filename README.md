@@ -1,2 +1,2 @@
 # pythonstone
-A text base version of hearthstone
+A text-based python version of hearthstone
